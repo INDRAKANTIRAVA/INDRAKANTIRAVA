@@ -1,1 +1,5 @@
 Hello Indra
+1.Token : //ghp_7ZGB4fJ3Z9MnRSNia75sqdjNzi5M4v2dUY
+2.git remote set-url origin https:<token>pw@github.com<username><repositry>
+
+3.git remote set-url origin https://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@github.com/INDRAKANTIRAVA/INDRAKANTIRAVA
