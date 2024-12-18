@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello Indra welcome come to git hub Account
-123456
-=======
-Hello Indra welcome come to git
-Hi Internal Exam
->>>>>>> Alternate
